@@ -212,7 +212,7 @@ body {
   gap: 30px;
   padding: 15px 20px;
 }
-}
+
 @media (max-width: 768px) {
   .hero-header {
     flex-direction: column;
