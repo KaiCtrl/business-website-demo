@@ -18,7 +18,7 @@ const clientData = {
 
   heroText:
     "Reliable residential and commercial cleaning services tailored to your schedule and needs.",
-
+  hours: ["Mon-Fri: 8am - 6pm", "Sat: 9am - 3pm", "Sun: Closed"],
   services: ["Domestic Cleaning", "Commercial Cleaning", "Window Cleaning"],
 
   whyChooseUs: [
@@ -28,7 +28,6 @@ const clientData = {
   ],
 
   images: [cleaning1, cleaning2, cleaning3],
-  hours: ["Mon-Fri: 8am - 6pm", "Sat: 9am - 3pm", "Sun: Closed"],
 
   reviews: [
     {

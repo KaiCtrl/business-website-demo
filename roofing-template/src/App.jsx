@@ -64,7 +64,7 @@ function App() {
           <h1>{clientData.heroTitle}</h1>
 
           <p>{clientData.heroText}</p>
-
+          <p>{clientData.hours.join(" | ")}</p>
           <button>Get Free Estimate</button>
         </section>
 

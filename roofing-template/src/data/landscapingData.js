@@ -18,7 +18,7 @@ const clientData = {
 
   heroText:
     "Transforming outdoor spaces with reliable landscaping, lawn care, and property maintenance.",
-
+  hours: ["Mon-Fri: 8am - 6pm", "Sat: 9am - 3pm", "Sun: Closed"],
   services: ["Mowing", "Hedging", "Mulching"],
 
   whyChooseUs: [
@@ -28,8 +28,6 @@ const clientData = {
   ],
 
   images: [landscape1, landscape2, landscape3],
-
-  hours: ["Mon-Fri: 8am - 6pm", "Sat: 9am - 3pm", "Sun: Closed"],
 
   reviews: [
     {

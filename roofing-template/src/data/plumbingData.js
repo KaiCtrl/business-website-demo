@@ -13,7 +13,7 @@ const plumbingData = {
   heroTitle: "Trusted Plumbing Services",
 
   heroText: "Fast, reliable plumbing solutions for homes and businesses.",
-
+  hours: ["Mon-Fri: 8am - 6pm", "Sat: 9am - 3pm", "Sun: Closed"],
   services: ["Leak Repair", "Drain Cleaning", "Water Heater Installation"],
 
   whyChooseUs: [
@@ -22,8 +22,6 @@ const plumbingData = {
     "Transparent pricing",
   ],
   images: [plumber1, plumber2, plumber3],
-
-  hours: ["Mon-Fri: 8am - 6pm", "Sat: 9am - 3pm", "Sun: Closed"],
 
   reviews: [
     {

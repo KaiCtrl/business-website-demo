@@ -23,7 +23,7 @@
 </div>
   heroTitle: "",
   heroText: "",
-
+  hours: ["Mon-Fri: 8am - 6pm", "Sat: 9am - 3pm", "Sun: Closed"],
   images: [],
 
   services: [],

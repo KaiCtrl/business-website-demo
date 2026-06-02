@@ -11,6 +11,7 @@ const roofingData = {
   logo: "/logos/roofing-logo.png",
 
   heroTitle: "Reliable Roofing Services",
+  hours: ["Mon-Fri: 8am - 6pm", "Sat: 9am - 3pm", "Sun: Closed"],
 
   heroText:
     "Residential and commercial roofing solutions with fast response times and trusted workmanship.",
@@ -18,7 +19,6 @@ const roofingData = {
   services: ["Roof Repair", "Roof Replacement", "Storm Damage Repair"],
 
   images: [roof1, roof2, roof3],
-  hours: ["Mon-Fri: 8am - 6pm", "Sat: 9am - 3pm", "Sun: Closed"],
 
   reviews: [
     {
