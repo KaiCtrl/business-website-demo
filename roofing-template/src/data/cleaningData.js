@@ -7,7 +7,7 @@ const clientData = {
     primary: "#0ea5e9",
     secondary: "#0369a1",
   },
-  businessName: "ABC Cleaning",
+  businessName: "Sparkle Shine Cleaning",
   logo: "/logos/cleaning-logo.png",
 
   industry: "Cleaning",
@@ -28,6 +28,7 @@ const clientData = {
   ],
 
   images: [cleaning1, cleaning2, cleaning3],
+  hours: ["Mon-Fri: 8am - 6pm", "Sat: 9am - 3pm", "Sun: Closed"],
 
   reviews: [
     {
@@ -50,10 +51,11 @@ const clientData = {
   ctaTitle: "Enjoy A Cleaner Space Today!",
 
   ctaButton: "Book A Cleaning",
+  serviceArea: "Houston, TX",
 
   contact: {
     phone: "(713) 555-5555",
-    email: "contact@abccleaning.com",
+    email: "contact@Sparkle Shine Cleaning.com",
     address: "Houston, TX",
   },
 };

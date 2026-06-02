@@ -198,15 +198,15 @@ body {
   font-weight: bold;
 }
 
-  .services-grid {
-    grid-template-columns: 1fr;
-  }
+.services-grid {
+  grid-template-columns: 1fr;
+}
 
-  h1 {
-    font-size: 2rem;
-  }
+h1 {
+  font-size: 2rem;
+}
 
-  nav {
+nav {
   display: flex;
   justify-content: center;
   gap: 30px;
@@ -256,4 +256,14 @@ html {
 .contact-form input,
 .contact-form button {
   margin-bottom: 15px;
+}
+.map-section {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.map-section iframe {
+  border-radius: 12px;
+  max-width: 1000px;
+  width: 100%;
 }

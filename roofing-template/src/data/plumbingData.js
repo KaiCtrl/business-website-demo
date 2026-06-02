@@ -7,7 +7,7 @@ const plumbingData = {
     primary: "#1e40af",
     secondary: "#0f172a",
   },
-  businessName: "ABC Plumbing",
+  businessName: "Lone Star Plumbing",
   logo: "/logos/plumbing-logo.png",
 
   heroTitle: "Trusted Plumbing Services",
@@ -23,6 +23,8 @@ const plumbingData = {
   ],
   images: [plumber1, plumber2, plumber3],
 
+  hours: ["Mon-Fri: 8am - 6pm", "Sat: 9am - 3pm", "Sun: Closed"],
+
   reviews: [
     {
       name: "John D.",
@@ -33,10 +35,11 @@ const plumbingData = {
 
   ctaTitle: "Fix Your Plumbing Problems Today!",
   ctaButton: "Schedule Service",
+  serviceArea: "Houston, TX",
 
   contact: {
     phone: "(713) 555-5555",
-    email: "contact@abcplumbing.com",
+    email: "contact@Lone Star Plumbing.com",
     address: "Houston, TX",
   },
 };

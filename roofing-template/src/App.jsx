@@ -140,6 +140,19 @@ function App() {
             </div>
           </form>
         </section>
+        <section className="map-section">
+          <h2>Serving Houston and Surrounding Areas</h2>
+
+          <iframe
+            title="Service Area Map"
+            src="https://www.google.com/maps?q=Houston,TX&output=embed"
+            width="100%"
+            height="400"
+            style={{ border: 0 }}
+            allowFullScreen=""
+            loading="lazy"
+          ></iframe>
+        </section>
         <footer>
           <p>© 2026 {clientData.businessName}</p>
           <p>{clientData.contact.phone}</p>

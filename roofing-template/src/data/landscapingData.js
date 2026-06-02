@@ -7,7 +7,7 @@ const clientData = {
     primary: "#15803d",
     secondary: "#14532d",
   },
-  businessName: "ABC Landscaping",
+  businessName: "Green Horizon Landscaping",
   logo: "/logos/landscape-logo.png",
 
   industry: "Landscaping",
@@ -28,6 +28,8 @@ const clientData = {
   ],
 
   images: [landscape1, landscape2, landscape3],
+
+  hours: ["Mon-Fri: 8am - 6pm", "Sat: 9am - 3pm", "Sun: Closed"],
 
   reviews: [
     {
@@ -53,9 +55,10 @@ const clientData = {
 
   contact: {
     phone: "(713) 555-1234",
-    email: "contact@abclandscaping.com",
+    email: "contact@Green Horizon Landscaping.com",
     address: "Houston, TX",
   },
+  serviceArea: "Houston, TX",
 };
 
 export default clientData;

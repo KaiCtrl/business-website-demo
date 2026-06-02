@@ -7,7 +7,7 @@ const roofingData = {
     primary: "#2563eb",
     secondary: "#1e293b",
   },
-  businessName: "ABC Roofing",
+  businessName: "Houston Premier Roofing",
   logo: "/logos/roofing-logo.png",
 
   heroTitle: "Reliable Roofing Services",
@@ -18,6 +18,7 @@ const roofingData = {
   services: ["Roof Repair", "Roof Replacement", "Storm Damage Repair"],
 
   images: [roof1, roof2, roof3],
+  hours: ["Mon-Fri: 8am - 6pm", "Sat: 9am - 3pm", "Sun: Closed"],
 
   reviews: [
     {
@@ -45,10 +46,11 @@ const roofingData = {
 
   ctaTitle: "Protect Your Roof Today!",
   ctaButton: "Get Free Estimate",
+  serviceArea: "Houston, TX",
 
   contact: {
     phone: "(713) 555-1234",
-    email: "info@abcroofing.com",
+    email: "info@Houston Premier Roofing.com",
     address: "Houston, TX",
   },
 };
